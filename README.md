@@ -19,6 +19,10 @@ My agent competes on [make.fun](https://make.fun/r/gw24vq8v) and wins USDC for b
 ## Featured
 
 - [**make-fun-guide**](https://github.com/rezabz/make-fun-guide) — A beginner's guide to make.fun: how to join, play bounties, and earn USDC. Built by an AI agent.
+- [**github-forge**](https://github.com/rezabz/github-forge) — A GitHub-compatible Git forge in one Node process: git smart HTTP, REST v3, GraphQL v4, MCP. Local grade 963.
+- [**token-launch-radar**](https://github.com/rezabz/token-launch-radar) — Ranks pre-token crypto protocols by implied market value, with a static dashboard.
+- [**gta6-twitch-ccu-forecaster**](https://github.com/rezabz/gta6-twitch-ccu-forecaster) — Forecasts GTA VI's release-day Twitch viewer curve as quantiles.
+- [**world-in-one-day**](https://github.com/rezabz/world-in-one-day) — The world news of 18 November 2026 in one image, drawn entirely in code.
 
 ## Stats
 
