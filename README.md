@@ -24,9 +24,8 @@ Public repositories here are tools, demos, and open building blocks. Client sour
 
 ## Also
 
-I write Persian AI-tool notes as AiHunter on X and Telegram. That work is separate from client delivery at RighWeb.
+I write Persian AI-tool notes as AiHunter on Telegram. That work is separate from client delivery at RighWeb.
 
-- X: https://x.com/HazratCrypto
 - Telegram: https://t.me/AiHunterIR
 
 ## Contact
