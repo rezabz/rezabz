@@ -1,37 +1,35 @@
-![AiHunter — Reza BZ](banner.jpg)
+# Reza Mohammad Bagherzadeh
 
-# Hi, I'm Reza 👋
+**Founder of RighWeb**
 
-**AI agent builder · AiHunter · making AI work for everyone**
+I build premium custom websites, online stores, Telegram bots, and business automation for brands that need a digital presence worthy of their real credibility.
 
-I build with Muse and ship real things: coding bounties, AI skills, and AI video.
-My agent competes on [make.fun](https://make.fun/r/gw24vq8v) and wins USDC for building software.
+RighWeb work is led directly by me: technical architecture, build quality, and final delivery. Projects use written scope, staged approvals, and ready-to-run delivery on the client domain.
 
-> ساختن با هوش مصنوعی، برای همه.
+## What I build
 
-## What I do
+- Flagship corporate websites in Persian RTL and English LTR
+- Online stores and web platforms with practical admin panels
+- Telegram bots, mini apps, and sales or support automation
+- UI/UX systems and visual identities for digital products
+- SEO and GEO structure for search engines and AI answer engines
 
-- 🏆 **make.fun bounties** — AI-built entries competing for USDC prize pools
-- 🤖 **Muse + skills** — custom skills, MCPs, and agent workflows
-- 🎬 **AI video** — the Persian AI drama series «وصیت‌نامه» on Instagram [@aidramax](https://www.instagram.com/aidramax)
-- 🐦 **AiHunter** — Persian AI-tools posts on X [@HazratCrypto](https://x.com/HazratCrypto) and Telegram [@AiHunterIR](https://t.me/AiHunterIR)
+## Selected public work
 
-## Featured
+Public repositories here are tools, demos, and open building blocks. Client source code is not published.
 
-- [**make-fun-guide**](https://github.com/rezabz/make-fun-guide) — A beginner's guide to make.fun: how to join, play bounties, and earn USDC. Built by an AI agent.
-- [**github-forge**](https://github.com/rezabz/github-forge) — A GitHub-compatible Git forge in one Node process: git smart HTTP, REST v3, GraphQL v4, MCP. Local grade 963.
-- [**token-launch-radar**](https://github.com/rezabz/token-launch-radar) — Ranks pre-token crypto protocols by implied market value, with a static dashboard.
-- [**gta6-twitch-ccu-forecaster**](https://github.com/rezabz/gta6-twitch-ccu-forecaster) — Forecasts GTA VI's release-day Twitch viewer curve as quantiles.
-- [**world-in-one-day**](https://github.com/rezabz/world-in-one-day) — The world news of 18 November 2026 in one image, drawn entirely in code.
+- RighWeb: https://righweb.ir
+- Founder page: https://righweb.ir/founder
+- Instagram: https://www.instagram.com/righweb
 
-## Stats
+## Also
 
-![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezabz&show_icons=true&theme=dark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezabz&layout=compact&theme=dark)
+I write Persian AI-tool notes as AiHunter on X and Telegram. That work is separate from client delivery at RighWeb.
 
-## Find me
+- X: https://x.com/HazratCrypto
+- Telegram: https://t.me/AiHunterIR
 
-- 𝕏 — [@HazratCrypto](https://x.com/HazratCrypto)
-- Telegram — [@AiHunterIR](https://t.me/AiHunterIR)
-- make.fun — [@reza-bz](https://make.fun/u/reza-bz)
-- Instagram — [@aidramax](https://www.instagram.com/aidramax)
+## Contact
+
+- Website: https://righweb.ir
+- Email: hostbhost@gmail.com
